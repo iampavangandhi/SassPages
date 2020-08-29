@@ -17,7 +17,7 @@
 
 #### [MIT](LICENSE) © Pavan Gandhi
 
-<br/>
+<br />
 
 ---
 
