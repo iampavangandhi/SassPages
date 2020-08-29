@@ -3,6 +3,8 @@
 > ### Improving My Frontend Skills 🌷
 > ### Website: https://iampavangandhi.github.io/SassPages/ 🌐
 
+<br />
+
 ## Static Pages
 
 ### 1. Shoes Landing: [Link](https://iampavangandhi.github.io/SassPages/ShoesLanding/)
