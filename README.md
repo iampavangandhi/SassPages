@@ -10,6 +10,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+<h3>Show some ❤️ by starring some of the repositories!</h3>
 
 </div>
