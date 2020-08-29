@@ -1,14 +1,16 @@
 # 🍨 SassPages - Static Pages using SASS
 
-> ### Improving My Frontend Skills 🌷
+> ### Improving My Frontend Designing Skills 🌷
 >
-> ### Website: https://iampavangandhi.github.io/SassPages/ 🌐
+> ### Website: [https://iampavangandhi.github.io/SassPages](https://iampavangandhi.github.io/SassPages) 🌐
 
 <br />
 
 ## Static Pages
 
 ### 1. Shoes Landing: [Link](https://iampavangandhi.github.io/SassPages/ShoesLanding/)
+
+#
 
 ## Contributing
 
