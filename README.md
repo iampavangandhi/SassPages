@@ -1,6 +1,6 @@
 # 🍨 SassPages - Static Pages using SASS
 
-> ## Improving My CSS Skills 🦩
+> ## Improving My Frontend Skills 🦩
 
 ## Static Pages
 
