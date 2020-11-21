@@ -10,6 +10,7 @@
 
 ### 1. Shoes Landing: [Link](https://iampavangandhi.github.io/SassPages/ShoesLanding/)
 
+### 2. Product Landing: [Link](https://iampavangandhi.github.io/SassPages/ProductLanding/)
 
 ## Contributing
 
